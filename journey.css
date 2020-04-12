@@ -1,0 +1,35 @@
+/* Polaroid */
+position: absolute;
+width: 131px;
+height: 160px;
+left: 125px;
+top: 242px;
+
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+
+/* Photo */
+position: absolute;
+width: 108px;
+left: calc(50% - 108px/2 - 0.5px);
+top: 8.12%;
+bottom: 31.88%;
+
+background: #E5E5E5;
+
+/* Title */
+position: absolute;
+height: 27px;
+left: 7px;
+right: 7px;
+top: calc(50% - 27px/2 + 56.5px);
+
+font-family: Barlow;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
